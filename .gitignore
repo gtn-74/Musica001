@@ -3,6 +3,7 @@
 /node_modules
 /build
 package-lock.json
+MEMO.md
 
 # Logs
 logs
@@ -61,3 +62,5 @@ config
 docker
 img
 hou
+
+/generated/prisma
